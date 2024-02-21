@@ -1,1 +1,1 @@
-# cotton_plant_diesease_pred
+# cotton_plant_disease_pred
